@@ -13,7 +13,7 @@ function Infobox({title, cases,total}) {
                 <h2 className="infoBox__cases">{cases}</h2>
 
                 <Typography className="infobox__total">
-                    {total}Total
+                    {total} Total
                 </Typography>
                 
                 
