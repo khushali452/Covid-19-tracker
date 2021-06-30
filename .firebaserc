@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "covid19tracker-k",
+    "default": "covid19tracker-k"
+  }
+}
