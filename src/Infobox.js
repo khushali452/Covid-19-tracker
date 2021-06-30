@@ -1,10 +1,11 @@
 import React from 'react';
 import {Card, CardContent, Typography } from "@material-ui/core";
-
+import "./Infobox.css";
+import { prettyPrintStat } from './util';
 function Infobox({title, cases,total}) {
     return (
-        <Card>
-            <CardContent>
+        <Card className="infobox">
+            <CardContent >
                 
                 <Typography className="infoBox__title" color="textSecondary">
                 {title}
@@ -13,7 +14,7 @@ function Infobox({title, cases,total}) {
                 <h2 className="infoBox__cases">{cases}</h2>
 
                 <Typography className="infobox__total">
-                    {total} Total
+                    {prettyPrintStat(total)} Total
                 </Typography>
                 
                 
