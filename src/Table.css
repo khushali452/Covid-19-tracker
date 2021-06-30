@@ -1,8 +1,9 @@
 .table{
     margin-top: 20px;
     overflow: scroll;
-    height: 400px;
+    height: 300px;
     color: #6a5d5d;
+    padding-bottom: 20px;
 }
 
 .table tr:nth-of-type(odd) {

@@ -3,12 +3,13 @@
 }
 
 body{
-  background-color: beige;
+  background-color: rgb(250, 250, 223);
 }
 .App{
   display:flex;
   justify-content: space-evenly;
-  padding: 20px;
+  
+  padding: 10px;
 }
 
 .app__header{
@@ -16,6 +17,7 @@ body{
     align-items: center;
     margin-bottom: 20px;
     justify-content: space-between;
+    color: rgb(192, 45, 45);
 }
 
 .app__stats {
@@ -25,6 +27,10 @@ body{
 
 .app_left{
   flex: 0.9;
+}
+
+.app_right{
+  font-size: 1rem;
 }
 
 @media (max-width: 990px){
