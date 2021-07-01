@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# Covid-19-tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://www.statnews.com/wp-content/uploads/2020/03/corona-tracker-social-image-1-1024x576.jpg)
 
-## Available Scripts
+## What is a Voice Assistant?
 
-In the project directory, you can run:
+A voice assistant or intelligent personal assistant is a software agent that can perform tasks or services for an individual based on verbal commands i.e. by interpreting human speech and respond via synthesized voices. Users can ask their assistants’ questions, control home automation devices, and media playback via voice, and manage other basic tasks such as email, to-do lists, open or close any application etc with verbal commands.
 
-### `npm start`
+## Features of desktop voice assistant - 'Olivia' made using using python.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Simple voice-based desktop/laptop assistant that has the capability to:
+1. Greetings
+2. Open any website in the browser.
+3. Locate you at your current location on google maps.
+4. Tells you stock price of your desired share.
+5. Tells you the current weather and temperature of almost any city
+6. Tells you the current time.
+7. Does various arithmetic calculation.
+8. Can google or fetch youtube search of desired subject.
+9. Can capture your pic by pc webcam.
+10. Tells you latest news feeds.
+11. Tells you about almost anything you ask.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Libraries/Tech stack used :
+1. datetime 
+2. webbrowser 
+3. wikipedia 
+4. os 
+5. requests 
+6. gTTS 
+7. speech_recognition 
+8. playsound 
+9. urllib 
+10. beautiful soup  
+11. pyttsx3
+12. ecapture
 
-### `npm test`
+## Interaction with Voice assistant: 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+You can view my interaction with **Olivia** here:  https://www.linkedin.com/posts/khushali-vasani-1685231aa_loom-free-screen-video-recording-software-activity-6809490870115540992-dLgw 
