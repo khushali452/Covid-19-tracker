@@ -1,6 +1,5 @@
 # Covid-19-tracker
 
-![image](https://cdn.dribbble.com/users/4721019/screenshots/15382609/media/4e8550b8156e885173c645cc84e47401.png)
+![image](https://play-lh.googleusercontent.com/plQnUf0aq-vGnkr0Geh_QA6Wi_QIh9p14bne6SBK27D314E82NvZQfuAXvEZ_GbiaQ?compress=1&resize=600x300)
 
 
-?compress=1&resize=400x300
